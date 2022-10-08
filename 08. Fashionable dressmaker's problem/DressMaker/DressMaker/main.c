@@ -33,8 +33,6 @@ struct JOB {
 	int s;
 };
 
-void compare(const* a, const* b);
-
 int main() {
 
 	FILE* myFile = NULL;
