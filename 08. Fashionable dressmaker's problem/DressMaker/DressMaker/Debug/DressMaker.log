@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\08. Fashionable dressmaker's problem\DressMaker\DressMaker\main.c(41,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\08. Fashionable dressmaker's problem\DressMaker\DressMaker\main.c(50,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\08. Fashionable dressmaker's problem\DressMaker\DressMaker\main.c(52,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\08. Fashionable dressmaker's problem\DressMaker\DressMaker\main.c(57,4): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DressMaker.vcxproj -> C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\08. Fashionable dressmaker's problem\DressMaker\Debug\DressMaker.exe
