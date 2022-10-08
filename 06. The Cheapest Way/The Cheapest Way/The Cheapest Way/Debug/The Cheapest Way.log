@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\The Cheapest Way\The Cheapest Way\main.c(80,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\The Cheapest Way\The Cheapest Way\main.c(86,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\The Cheapest Way\The Cheapest Way\main.c(93,12): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\The Cheapest Way\The Cheapest Way\main.c(96,17): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  The Cheapest Way.vcxproj -> C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\The Cheapest Way\Debug\The Cheapest Way.exe
