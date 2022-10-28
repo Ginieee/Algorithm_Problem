@@ -1,0 +1,11 @@
+﻿  main.c
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(22,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(31,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(37,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(39,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(40,15): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(41,16): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(42,16): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(29,25): warning C4101: 'title' :참조되지 않은 지역 변수입니다.
+C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Lab1_Practice\main.c(34,13): warning C4101: 'napTime' :참조되지 않은 지역 변수입니다.
+  Lab1_Practice.vcxproj -> C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\Lab1_Practice\Debug\Lab1_Practice.exe

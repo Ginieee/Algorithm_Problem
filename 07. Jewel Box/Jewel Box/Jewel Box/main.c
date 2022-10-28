@@ -16,7 +16,7 @@ int main() {
 	FILE* myFile = NULL;
 	myFile = fopen(INPUT, "r");
 	if (myFile == NULL) {
-		printf("\mInput file could not open!\n");
+		printf("\nInput file could not open!\n");
 		exit(1);
 	}
 

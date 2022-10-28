@@ -1,5 +1,4 @@
 ﻿  main.c
-C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\07. Jewel Box\Jewel Box\Jewel Box\main.c(19,10): warning C4129: 'm': 문자 이스케이프 시퀀스를 인식할 수 없습니다.
 C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\07. Jewel Box\Jewel Box\Jewel Box\main.c(17,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\07. Jewel Box\Jewel Box\Jewel Box\main.c(30,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
 C:\Users\kaj12\Desktop\강의\22-2 강의\알고리즘\실습\07. Jewel Box\Jewel Box\Jewel Box\main.c(32,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
